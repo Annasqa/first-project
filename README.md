@@ -2,7 +2,7 @@
 
 ### March 26
 
-A intro project with basic java structure
+A Intro Project with basic Java Concepts
 
 * Git
 * Java 7
