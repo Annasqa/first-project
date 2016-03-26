@@ -1,8 +1,8 @@
-### Basic Project2
+### First Project
 
 ### March 26
 
-A Basic Structure for Maven Projects
+A First Java Project done in class
 
 * Git
 * Java 7
