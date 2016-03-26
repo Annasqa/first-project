@@ -2,7 +2,7 @@
 
 ### March 26
 
-A First Java Project done in class
+A intro project with basic java structure
 
 * Git
 * Java 7
